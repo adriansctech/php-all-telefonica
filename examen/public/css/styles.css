@@ -1,0 +1,61 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	background-image: url("../images/cityscapes-urban-buildings-cities-desktop-background-images.jpg");
+	background-size: cover;
+}
+table {
+	margin-top: 50px;
+	text-align: center;
+}
+table th {
+	font-size: 26px;
+	text-align: center;
+}
+table tr {
+    background-color: #eee;
+}
+
+table tr:nth-child(2) {
+    background-color: #eee;
+}
+
+table tr:nth-child(even) {
+    background-color: #eee;
+}
+ 
+table tr:nth-child(odd) {
+    background-color: #fff;
+}
+table {
+	width: 100%;
+}
+.delete:hover{
+	color: red;
+}
+.new {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;;
+	background-color: #D0D0D0;
+}
+.new-2{
+   margin-top: 25px;
+}
+.logo{
+	width: 48px;
+}
+.edition {
+	background-color: #eee; 
+	margin-top: 50px;
+	padding-top: 25px;
+
+}
+.to-index{
+	text-align: center;
+	margin-top: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: #9F9696;
+
+}
